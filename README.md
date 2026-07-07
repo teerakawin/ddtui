@@ -1,3 +1,4 @@
+<img src="DD.png" alt="App Demo" width="500">
 # Tui-Drive-tool
 
 Tui-Drive-tool is a tool that does drive stuff based on whiptail dialog menus for quick and safe disk management. It turns complex, dangerous terminal commands into a simple, automated interface.
